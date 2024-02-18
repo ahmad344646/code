@@ -1,0 +1,93 @@
+[
+    {
+      "name": "_ym_uid",
+      "value": "1702174450298669790",
+      "domain": ".delionix.com",
+      "path": "/",
+      "expires": 1733710449,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "_ym_d",
+      "value": "1702174450",
+      "domain": ".delionix.com",
+      "path": "/",
+      "expires": 1733710449,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "SESSIONID",
+      "value": "hebdqvl7u5suvbhj1ue6seiq60",
+      "domain": ".delionix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "_ym_isad",
+      "value": "1",
+      "domain": ".delionix.com",
+      "path": "/",
+      "expires": 1708211418,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "newprov_cache",
+      "value": "ef6f927cdacf77afe7d0368ad0ba8409",
+      "domain": "delionix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "newprov_png",
+      "value": "ef6f927cdacf77afe7d0368ad0ba8409",
+      "domain": "delionix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "newprov_etag",
+      "value": "ef6f927cdacf77afe7d0368ad0ba8409",
+      "domain": "delionix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "menu_ref",
+      "value": "ef6f927cdacf77afe7d0368ad0ba8409",
+      "domain": "delionix.com",
+      "path": "/",
+      "expires": 1742700193.656755,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "vblock1",
+      "value": "1",
+      "domain": "delionix.com",
+      "path": "/",
+      "expires": 1710750195,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "io",
+      "value": "23mKcogC1beZbN-KAHRM",
+      "domain": "delionix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ]
